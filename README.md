@@ -34,10 +34,10 @@
 
 ### 📌 Featured Projects  
 
-#### 🔹 **Tourism Farm Booking Web App (MVC Architecture)**
--Online platform to view, explore, and book farmlands for events & tourism
--Built with MVC architecture and includes backend management & UI design
--GitHub: https://github.com/arelli-sanjay/tourism-farm-booking
+#### 🔹 **Tourism Farm Booking Web App (MVC Architecture)**  
+- Online platform to view, explore, and book farmlands for events & tourism
+- Built with MVC architecture and includes backend management & UI design
+- **GitHub:** https://github.com/arelli-sanjay/tourism-farm-booking
 
 #### 🔹 **Handwritten Digit Recognition (AI/ML)**  
 - Built an ML model to classify handwritten digits  
@@ -73,8 +73,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arelli-sanjay&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&theme=radical&show_icons=true" />
 </p>
 
 
@@ -82,7 +81,7 @@
 
 ### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arelli-sanjay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=arelli-sanjay&theme=radical&hide_border=false" />
 </p>
 
 
