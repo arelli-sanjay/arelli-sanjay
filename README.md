@@ -73,15 +73,16 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arelli-sanjay&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arelli-sanjay&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
-### 🏅 GitHub Streak  
+### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arelli-sanjay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arelli-sanjay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
