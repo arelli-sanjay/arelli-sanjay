@@ -69,7 +69,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&theme=radical&show_icons=true" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arelli-sanjay&show_icons=true&theme=tokyonight" height="180">
 </p>
 
 ---
