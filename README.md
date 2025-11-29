@@ -81,8 +81,9 @@
 
 ### 🏅 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arelli-sanjay&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=arelli-sanjay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
