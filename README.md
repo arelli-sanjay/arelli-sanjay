@@ -67,12 +67,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arelli-sanjay&show_icons=true&theme=tokyonight" height="180">
-</p>
-
----
 
 ### 🔥 GitHub Streak  
 <p align="center">
