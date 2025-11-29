@@ -35,22 +35,18 @@
 ### 📌 Featured Projects  
 
 #### 🔹 **Tourism Farm Booking Web App (MVC Architecture)**  
-- Online platform to view, explore, and book farmlands for events & tourism
-- Built with MVC architecture and includes backend management & UI design
+- Online platform to view, explore, and book farmlands for events & tourism  
+- Built with MVC architecture, backend management & UI design  
 - **GitHub:** https://github.com/arelli-sanjay/tourism-farm-booking
 
 #### 🔹 **Handwritten Digit Recognition (AI/ML)**  
-- Built an ML model to classify handwritten digits  
-- Includes preprocessing, training & prediction pipeline  
+- ML model to classify handwritten digits  
+- Includes preprocessing, training & prediction  
 - **GitHub:** https://github.com/arelli-sanjay/Handwritten-Digit-Recognition  
 
 #### 🔹 **Spam News Detection (ML Project)**  
-- NLP-based classification project  
-- **GitHub:** https://github.com/arelli-sanjay/Spam-News-Detection   
-
-#### 🔹 **Spotify Web Player UI Clone**  
-- Fully responsive HTML & CSS UI  
-- **GitHub:** https://github.com/arelli-sanjay/spotify-ui-clone  
+- NLP-based classification using machine learning  
+- **GitHub:** https://github.com/arelli-sanjay/Spam-News-Detection  
 
 ---
 
@@ -59,8 +55,8 @@
 - ✔ AI Industrial Training — Internship at InternVision  
 - ✔ Machine Learning Bootcamp — GNIT × Sanvihaan Technologies  
 - ✔ Power BI Workshop — OfficeMaster  
-- ✔ Full-Stack Web Development — Apna College
-- ✔ Data Structures and Algorithms — Apna College  
+- ✔ Full-Stack Web Development — Apna College  
+- ✔ Data Structures & Algorithms — Apna College  
 
 ---
 
@@ -73,17 +69,15 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&theme=radical&show_icons=true" height="180" />
 </p>
-
 
 ---
 
 ### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arelli-sanjay&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=arelli-sanjay&theme=radical&hide_border=false" height="180" />
 </p>
-
 
 ---
 
@@ -91,4 +85,3 @@
 I love experimenting with **AI workflows**, building projects with **prompts**, and learning something new every day!
 
 ---
-
