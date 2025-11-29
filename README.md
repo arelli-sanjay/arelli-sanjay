@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arelli Sanjay</h1>
+<h3 align="center">Aspiring LLM App Developer & AI Full-Stack Engineer</h3>
 
-<!--
-**arelli-sanjay/arelli-sanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎓 B.Tech CSE Student (3rd Year)  
+- 🤖 Passionate about **AI, Machine Learning & LLM Application Development**  
+- 💻 Skilled in **Full-Stack Web Development (MERN)**  
+- 🧠 Strong interest in **Prompt Engineering & Automation**  
+- 📚 Currently improving **DSA, AI workflows, and advanced ML concepts**  
+- 🎯 Goal: Become a **LLM App Developer & AI Full-Stack Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools  
+
+**Languages & Frameworks:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python" />
+</p>
+
+**AI / ML:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+**Other Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+### 📌 Featured Projects  
+
+#### 🔹 **Tourism Farm Booking Web App (MVC Architecture)**
+-Online platform to view, explore, and book farmlands for events & tourism
+-Built with MVC architecture and includes backend management & UI design
+-GitHub: https://github.com/arelli-sanjay/tourism-farm-booking
+
+#### 🔹 **Handwritten Digit Recognition (AI/ML)**  
+- Built an ML model to classify handwritten digits  
+- Includes preprocessing, training & prediction pipeline  
+- **GitHub:** https://github.com/arelli-sanjay/Handwritten-Digit-Recognition  
+
+#### 🔹 **Spam News Detection (ML Project)**  
+- NLP-based classification project  
+- **GitHub:** https://github.com/arelli-sanjay/Spam-News-Detection   
+
+#### 🔹 **Spotify Web Player UI Clone**  
+- Fully responsive HTML & CSS UI  
+- **GitHub:** https://github.com/arelli-sanjay/spotify-ui-clone  
+
+---
+
+### 🏆 Certifications  
+- ✔ Prompt Engineering Specialization — Coursera  
+- ✔ AI Industrial Training — Internship at InternVision  
+- ✔ Machine Learning Bootcamp — GNIT × Sanvihaan Technologies  
+- ✔ Power BI Workshop — OfficeMaster  
+- ✔ Full-Stack Web Development — Apna College
+- ✔ Data Structures and Algorithms — Apna College  
+
+---
+
+### 📫 Contact  
+- 📍 Hyderabad, India  
+- 📧 Email: **arellissanjay1105@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/sanjay-arelli-2b0970383**  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arelli-sanjay&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arelli-sanjay&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🏅 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arelli-sanjay&theme=tokyonight" height="170" />
+</p>
+
+---
+
+### ⭐ Fun Fact  
+I love experimenting with **AI workflows**, building projects with **prompts**, and learning something new every day!
+
+---
+
