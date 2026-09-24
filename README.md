@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 * 🎓 **B.Tech Computer Science & Engineering Student** at Guru Nanak Institute of Technology
-* 📅 **2023 – 2027 | CGPA: 9.0/10**
+* 📅 **2023 – 2027 | CGPA: 8.5/10**
 * 🤖 Interested in **Artificial Intelligence, Generative AI, LLM Applications and Agentic AI**
 * 💻 Building **AI-powered Full-Stack applications** using the MERN stack
 * 🧠 Hands-on experience with **LLM APIs, Prompt Engineering, Machine Learning and Deep Learning**
