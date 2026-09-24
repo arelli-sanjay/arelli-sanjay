@@ -174,9 +174,6 @@
 * Developed a responsive ChatGPT-style interface
 * Designed the application architecture for scalable AI-powered conversations
 
-**GitHub:**
-https://github.com/arelli-sanjay/CortexGPT-AI-Chatbot
-
 ---
 
 ## 🔹 Automated Melanoma Detection
